@@ -1,0 +1,6 @@
+[submodule "AirMakFront"]
+	path = AirMakFront
+	url = https://github.com/aadelaahmed/AirMakFront.git
+[submodule "AirMak"]
+	path = AirMak
+	url = https://github.com/mohamedgomaa23722/AirMak.git
